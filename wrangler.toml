@@ -1,4 +1,6 @@
-# Site institucional estático (Hugo), publicado via Cloudflare Pages.
+# Site institucional estático (Hugo), publicado via Cloudflare Workers (arquivos estáticos).
 name = "site-modelo-institucional"
 compatibility_date = "2026-09-16"
-pages_build_output_dir = "public"
+
+[assets]
+directory = "public"
