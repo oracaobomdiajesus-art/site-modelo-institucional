@@ -8,6 +8,8 @@ google_avaliacao_url: ""
 video_youtube_url: ""
 video_titulo: ""
 tema_cor: marrom
+cor_primaria: ""
+cor_secundaria: ""
 fundo_ativo: false
 fundo_foto: ""
 fundo_opacidade: 40
