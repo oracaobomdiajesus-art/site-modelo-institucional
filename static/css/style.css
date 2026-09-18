@@ -227,6 +227,18 @@ footer {
   white-space: nowrap;
 }
 
+.price-original {
+  text-decoration: line-through;
+  opacity: 0.6;
+  margin-right: 6px;
+  font-weight: 400;
+  font-size: 0.85rem;
+}
+
+.price-promo {
+  color: #d32f2f;
+}
+
 .cardapio-desc {
   margin: 2px 0 0;
   font-size: 0.75rem;
